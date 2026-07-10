@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ishmam! <br/> <a href="www.linkedin.com/in/ishmam-mustain/">Information Technology Specialist</a>
+<h1>Hi, I'm Ishmam Mustain! <br/>
 <h2>👨‍💻 Personal Technical Projects:</h2>
 
 - <b>Active Directory (Oracle VirtualBox) Personal Project</b>
@@ -10,7 +10,6 @@
 - <b>Djano Traders App (Graduate Project)</b>
   
 
-<h2>📺 Popular YouTube Videos</h2>
 
 
 <!--
