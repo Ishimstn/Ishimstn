@@ -5,7 +5,7 @@
   
 - <b>[IT Ticketing System Personal Project](https://github.com/Ishimstn/IT-Ticketing-System)</b>
 
-- <b>Arts Council of Greater Greensboro Participant & Consultation Services Key Metric Data Analysis (Internship Project)</b>
+- <b>[Arts Council of Greater Greensboro Participant & Consultation Services Key Metric Data Analysis (Internship Project)](https://github.com/Ishimstn/ACGG-Internship-Project)</b>
  
 - <b>[Djano Traders App (Graduate Project)](https://github.com/Ishimstn/ISM_672_DjangoTraders)</b>
   
