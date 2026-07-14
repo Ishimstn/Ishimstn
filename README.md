@@ -10,6 +10,7 @@
 - <b>[Djano Traders App (Graduate Project)](https://github.com/Ishimstn/ISM_672_DjangoTraders)</b>
   
 
-
+<h2>📚 Certifications</h2>
+-[!CompTIA Network+ Certification](https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)(https://www.credly.com/badges/92481a4b-e120-4c0b-b9ee-a2e65e5b203f/public_url) 
 
 <!--
