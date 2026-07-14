@@ -7,7 +7,7 @@
 
 - <b>Arts Council of Greater Greensboro Participant & Consultation Services Key Metric Data Analysis (Internship Project)</b>
  
-- <b>Djano Traders App (Graduate Project)</b>
+- <b>[Djano Traders App (Graduate Project)](https://github.com/Ishimstn/ISM_672_DjangoTraders)</b>
   
 
 
