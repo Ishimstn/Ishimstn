@@ -3,7 +3,7 @@
 
 - [Active Directory (Oracle VirtualBox) Personal Project](https://github.com/Ishimstn/ActiveDirectoryHomeLab)
   
-- <b>IT Ticketing System Personal Project</b>
+- <b>[IT Ticketing System Personal Project](https://github.com/Ishimstn/IT-Ticketing-System)</b>
 
 - <b>Arts Council of Greater Greensboro Participant & Consultation Services Key Metric Data Analysis (Internship Project)</b>
  
